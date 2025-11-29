@@ -1,4 +1,4 @@
-# 🎓 Students Performance Insights Dashboard
+#  Students Performance Insights Dashboard
 
 An interactive Power BI dashboard providing deep insights into students' academic performance across math, reading, and writing.  
 The dashboard highlights performance gaps, demographic influences, and the effectiveness of test preparation programs.
